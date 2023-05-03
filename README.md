@@ -1,4 +1,3 @@
-# Test-repo
-learning how to use GitHub
+# My very first repository
+Kalob is a very good teacher, I will give him a nice review
 
-This is a second example
